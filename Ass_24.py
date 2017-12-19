@@ -1,0 +1,8 @@
+print "Special character in String"
+print "Alert \a"
+print "backspace \b \n in"
+print "Carriage \r return "
+print "horizontal \t tab"
+print "Vertiacal \v tab"
+#print "end"
+print "form \f feed"
